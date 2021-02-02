@@ -5,5 +5,6 @@ import (
 )
 
 func main() {
-	fmt.Print("Hello world")
+	fmt.Println("Hello world")
+	fmt.Println("www.myavuz.net")
 }
